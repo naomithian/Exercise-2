@@ -22,13 +22,13 @@ header h1 {
 
 /* Introduction Section */
 .intro {
-    margin: 20px auto;
+    margin: 30px auto;
     max-width: 600px;
 }
 
 .intro p {
     font-size: 1.2rem;
-    line-height: 1.6;
+    line-height: 1.7;
 }
 
 /* Image Section */
